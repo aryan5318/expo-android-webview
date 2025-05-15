@@ -7,6 +7,7 @@ This project demonstrates the integration of a **Next.js + Material UI (MUI)** w
 The deployed Next.js app with Google Sign-Up is available at:
 
 👉 [https://google-aut.netlify.app](https://google-aut.netlify.app)
+    Github Link-https://github.com/aryan5318/Google-Auth
 
 ## 📱 Expo Android App
 
